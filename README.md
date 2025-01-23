@@ -10,5 +10,5 @@
 <br>
 <img src="https://github.com/jonathanvdem/Easy-Shopping/blob/main/Projeto-2/assets/Desktop-EasyShopping.png?raw=true"/>
 <br>
-<h2>Parte Responsivel</h2>
+<h2>Projeto Responsivo</h2>
 <img src="https://github.com/jonathanvdem/Easy-Shopping/blob/main/Projeto-2/assets/mobile-EasyShopping.png?raw=true"/>
